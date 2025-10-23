@@ -2,8 +2,6 @@
 
 Este repositório contém **exercícios práticos** desenvolvidos em Java, com base nas aulas do curso **Maratona Java (DevDojo)**.
 
-O objetivo é consolidar os principais conceitos de **fundamentos da linguagem**, antes de avançar para Programação Orientada a Objetos (POO).
-
 ---
 
 ## 🧠 Conteúdo estudado
