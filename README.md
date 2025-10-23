@@ -1,6 +1,6 @@
 # ☕ Fundamentos do Java - DevDojo
 
-Este repositório contém **10 exercícios práticos** desenvolvidos em Java, com base nas aulas 1 a 38 do curso **Maratona Java (DevDojo)**.
+Este repositório contém **exercícios práticos** desenvolvidos em Java, com base nas aulas do curso **Maratona Java (DevDojo)**.
 
 O objetivo é consolidar os principais conceitos de **fundamentos da linguagem**, antes de avançar para Programação Orientada a Objetos (POO).
 
