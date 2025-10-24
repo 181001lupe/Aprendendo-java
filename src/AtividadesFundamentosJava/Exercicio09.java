@@ -12,7 +12,7 @@ public class Exercicio09 {
             for(double nota : aluno) {
                 soma += nota;
             }
-            mediaAluno = soma / 2;
+            mediaAluno = soma / aluno.length;
             soma = 0;
             mediaGeral += mediaAluno;
             count++;
